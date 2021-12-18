@@ -1,0 +1,17 @@
+{
+  "name": "rollplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.7"
+  }
+}
